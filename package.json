@@ -1,0 +1,12 @@
+{
+  "name": "jasonbot-api",
+  "version": "1.0.0",
+  "description": "API chatbot JASONBOT",
+  "main": "Api/ai.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@google-generative-ai": "^0.24.1"
+  }
+}
